@@ -69,7 +69,7 @@ https://github.com/durgeshth/info_Durgesh/assets/88326857/8fdc9d99-700b-4ae4-88b
 
 
 Other:
-I have many minor and major projects but most of them were not documented as it was my curocity to know and initally was I not a foud of kepping it documented.
+I have many minor and major projects, but most of them were not documented, as it was just my curiosity to know how it works and, initially, I was not a fan of getting them documented.
  - extras
    
 <img src="https://github.com/durgeshth/info_Durgesh/assets/88326857/565b8927-507d-4242-9506-ab575e7ae3ea" width="400" height="400"> <img src="https://github.com/durgeshth/info_Durgesh/assets/88326857/c49da357-47c2-4290-948f-927e7bf371ef" width="400" height="400">
