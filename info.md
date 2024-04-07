@@ -4,6 +4,7 @@
 - Emission spectrum of a tube light
 - Turbulent and laminar flow
 - Internship
+- Algo: https://github.com/durgeshth/Algo
 - Other (Uncertainty principle, Air flow (laminar and turbulent), Creating Oxygen with Carbonated Water, Wavelength of red light by semiconductor diode, Solar cleaning robot and Health band)
 ## Drone Stabiliztion
 
