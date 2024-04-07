@@ -59,7 +59,7 @@ https://github.com/durgeshth/info_Durgesh/assets/88326857/bc86334c-6767-400f-8d9
 
 ## Turbulent and laminar flow
 
-Wanted to know how laminar flow works and what is the terminal point after which it starts to get turbulent in nature. Also 
+Wanted to know how laminar flow works and what is the terminal point after which it starts to get turbulent in nature.
 
 <img src="https://github.com/durgeshth/info_Durgesh/assets/88326857/3d75c325-e681-4e7c-8a52-379a6357b307" width="500" height="500">
 
