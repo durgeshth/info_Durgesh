@@ -1,4 +1,4 @@
-![image](https://github.com/durgeshth/info_Durgesh/assets/88326857/8229b383-da0c-4bec-8f63-9fd3f2296941)# Some of my work
+# Some of my work
 ## Drone Stabiliztion
 I have worked with PID System, (a subset of Control Theory) specially on Drone Sabilization and I have learn how autonomus system works such as how the spaceship fly on desired path how chandrayan was follwing the exact trajectory which was precalulated, this all comes under control theory. Below are some of the photos and video links attachd:
 ### Drone 
