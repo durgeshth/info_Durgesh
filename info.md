@@ -6,7 +6,7 @@
 - Internship
 - Other
 ## Drone Stabiliztion
-I have worked with PID System, (a subset of Control Theory) specially on Drone Sabilization and I have learn how autonomus system works such as how the spaceship fly on desired path how chandrayan was follwing the exact trajectory which was precalulated, this all comes under control theory. Below are some of the photos and video links attachd:
+I have worked with PID systems (a subset of control theory), especially drone stabilization, and I have learned how autonomous systems work, such as how the spaceship flies on the desired path and how the chandrayaan is following the exact trajectory that was precalulated; this all falls under control theory. Below are some of the photos and video links attached:
 ### Drone 
 ##
   - Drone v1
