@@ -6,7 +6,9 @@
 - Internship
 - Other
 ## Drone Stabiliztion
+
 I have worked with PID systems (a subset of control theory), especially drone stabilization, and I have learned how autonomous systems work, such as how the spaceship flies on the desired path and how the chandrayaan is following the exact trajectory that was precalulated; this all falls under control theory. Below are some of the photos and video links attached:
+
 ### Drone 
 ##
   - Drone v1
@@ -47,7 +49,7 @@ https://github.com/durgeshth/info_Durgesh/assets/88326857/c3b6cd4b-0259-4a1b-9c4
 
 ## Emission spectrum of a tube light 
 
-In my FYBSc we had a topic named LASER and we learned about absorption and stimulated emission etc, I wanted to see by myself, first thought was to make a LASER but it was too expensive so I thought I can make a tesla coil which can generate this EM radiations of certain Band of frequency (at ressonace frequency) which can match with the Energy diffrence of two levels so, that certain frequency can make engough energy to exiced the electrons by the formula as h*(freq) = (E2-E1). In this wave i also how this line spectrum tell crusial information aboout the atomic composition of the source such as star etc. in future we can automate by Deep learing to find the atomic composition.  
+In my FYBSc, we had a topic named LASER, and we learned about absorption, stimulated emission, etc. I wanted to see it by myself. My first thought was to make a LASER, but it was too expensive, so I thought I could make a Tesla coil that can generate this EM radiation of a certain band of frequency (at resonance frequency), which can match with the energy diffrence of two levels, so that certain frequency can generate enough energy to excite the electrons by the formula h*(freq) = (E2-E1). In this wave, I also see how this line spectrum gives crucial information about the atomic composition of the source, such as a star, etc. In the future, we can automate deep learning to find the atomic composition. 
 
 <img src="https://github.com/durgeshth/info_Durgesh/assets/88326857/dbcf94c5-aee2-4225-bfe7-7aa8c999bae8" width="500" height="500"> <img src="https://github.com/durgeshth/info_Durgesh/assets/88326857/48089f55-7f2c-48b5-8d03-967d9836c903" width="500" height="500">
 
