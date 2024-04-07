@@ -4,7 +4,7 @@
 - Emission spectrum of a tube light
 - Turbulent and laminar flow
 - Internship
-- Other
+- Other (Uncertainty principle, Air flow (laminar and turbulent), Creating Oxygen with Carbonated Water, Wavelength of red light by semiconductor diode, Solar cleaning robot and Health band)
 ## Drone Stabiliztion
 
 I have worked with PID systems (a subset of control theory), especially drone stabilization, and I have learned how autonomous systems work, such as how the spaceship flies on the desired path and how the chandrayaan is following the exact trajectory that was precalulated; this all falls under control theory. Below are some of the photos and video links attached:
@@ -87,7 +87,7 @@ https://github.com/durgeshth/info_Durgesh/assets/88326857/afd9ce03-1c27-4132-97d
 
 ##
 ##
-### Internship: Did this project in my internship
+### Internship: Did this project in my internship (Solar cleaning robot and Health band)
 ##
 
 https://github.com/durgeshth/info_Durgesh/assets/88326857/59007b4b-1830-47b0-9b2e-20bbd0f3966a
