@@ -1,4 +1,10 @@
 # Some of my work
+- Drone Stabiliztion
+- Gcode and how machines know where to go
+- Emission spectrum of a tube light
+- Turbulent and laminar flow
+- Internship
+- Other
 ## Drone Stabiliztion
 I have worked with PID System, (a subset of Control Theory) specially on Drone Sabilization and I have learn how autonomus system works such as how the spaceship fly on desired path how chandrayan was follwing the exact trajectory which was precalulated, this all comes under control theory. Below are some of the photos and video links attachd:
 ### Drone 
@@ -32,8 +38,8 @@ https://github.com/durgeshth/info_Durgesh/assets/88326857/797182dc-f549-42dc-a37
 
 ## Gcode and how machines know where to go
 
-I always wonderd how the machince even know what task to do and how they preciley know where to go espceally in robotics i have learned this when I was working on an pen ploting machine and got a little furture when there was an event in my college (on science day) called Rongoli competition. I build a Rongoli making machince I have learnt a lot (Gcode, Motor controller,devloping and designing a machanical system) while solving such problem and devloped a critical way of thinking. 
-
+I always wonder how the machines even know what task to do and how they precisely know where to go, especially in robotics. I learned this when I was working on a pen plotting machine and got a little further when there was an event in my college (on science day) called the Rongoli competition. I build a Rongoli machine, and I have learned a lot (Gcode, motor controller, developing and designing a mechanical system) while solving such problems.
+ 
  - Rangoli Machine
    
 https://github.com/durgeshth/info_Durgesh/assets/88326857/c3b6cd4b-0259-4a1b-9c42-b5da37008fc0
@@ -61,7 +67,33 @@ https://github.com/durgeshth/info_Durgesh/assets/88326857/8fdc9d99-700b-4ae4-88b
 
 
 Other:
-I have many minor and major projects but most of them were not documented as it was my curocity to know and initally was not a fount of kepping it documented 
+I have many minor and major projects but most of them were not documented as it was my curocity to know and initally was I not a foud of kepping it documented.
+ - extras
+   
+<img src="https://github.com/durgeshth/info_Durgesh/assets/88326857/565b8927-507d-4242-9506-ab575e7ae3ea" width="400" height="400"> <img src="https://github.com/durgeshth/info_Durgesh/assets/88326857/c49da357-47c2-4290-948f-927e7bf371ef" width="400" height="400">
+   
+<img src="https://github.com/durgeshth/info_Durgesh/assets/88326857/f3d70c04-aca7-4a22-8633-cf8d2c25670a" width="400" height="400"> <img src="https://github.com/durgeshth/info_Durgesh/assets/88326857/1d1f0f2c-4be8-4d49-84de-0df0ddc7efbf" width="400" height="400">
+
+<img src="https://github.com/durgeshth/info_Durgesh/assets/88326857/01ebf061-79a5-4eb7-9018-a9b1122df04e" width="400" height="400"> <img src="https://github.com/durgeshth/info_Durgesh/assets/88326857/8dc1df85-0246-4ead-b719-18fc50291acc" width="400" height="400">
+<img src="https://github.com/durgeshth/info_Durgesh/assets/88326857/4d7b60b7-8b26-4053-b7e0-985b4f05d5db" width="400" height="400"> <img src="https://github.com/durgeshth/info_Durgesh/assets/88326857/bafd1799-7698-4dc4-b080-4710169702a7" width="800" height="100">
+
+
+https://github.com/durgeshth/info_Durgesh/assets/88326857/2691fa18-d333-43f2-a27c-6b8a27ca2897 
+
+https://github.com/durgeshth/info_Durgesh/assets/88326857/afd9ce03-1c27-4132-97d0-6a5cc0534e18
+
+
+##
+##
+### Internship: Did this project in my internship
+##
+
+https://github.com/durgeshth/info_Durgesh/assets/88326857/59007b4b-1830-47b0-9b2e-20bbd0f3966a
+
+https://github.com/durgeshth/info_Durgesh/assets/88326857/7663e364-01b6-44f2-9944-ab7d579332a4
+
+<img src="https://github.com/durgeshth/info_Durgesh/assets/88326857/0cf34db1-a77e-485b-8436-6e2853bcf42b" width="500" height="600">
+
 
 
 
