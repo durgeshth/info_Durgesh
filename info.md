@@ -1,6 +1,6 @@
 # Some of my work
-- Drone Stabiliztion
-- Gcode and how machines know where to go
+- Drone Stabilization
+- G code and how machines know where to go
 - Emission spectrum of a tube light
 - Turbulent and laminar flow
 - Internship
