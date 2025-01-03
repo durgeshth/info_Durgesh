@@ -76,9 +76,6 @@ Any regional language can be given to the system in the form of voice or text an
 <img src="https://github.com/user-attachments/assets/4d80df5c-5472-42dc-a09d-b8135105cce0" width="500" height="600">
 
 
-
-
-
 https://github.com/user-attachments/assets/4d80df5c-5472-42dc-a09d-b8135105cce0
 
 
