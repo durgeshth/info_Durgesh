@@ -73,8 +73,7 @@ https://github.com/durgeshth/info_Durgesh/assets/88326857/8fdc9d99-700b-4ae4-88b
 
 Any regional language can be given to the system in the form of voice or text and system will do necessary things made this from broken parts of Xerox/Copying machine. 
 
-<img src="https://github.com/user-attachments/assets/4d80df5c-5472-42dc-a09d-b8135105cce0" width="500" height="600">
-
+https://github.com/user-attachments/assets/4d80df5c-5472-42dc-a09d-b8135105cce0
 
 
 
