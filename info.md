@@ -69,6 +69,17 @@ https://github.com/durgeshth/info_Durgesh/assets/88326857/8fdc9d99-700b-4ae4-88b
 
 
 
+## Voice interaction with a machine
+
+Any regional language can be given to the system in the form of voice or text and system will do necessary things made this from broken parts of Xerox/Copying machine. 
+<img src="https://github.com/user-attachments/assets/46ffbe3b-737b-4445-9863-85c97d8e68d4" width="500" height="500">
+
+
+
+
+https://github.com/durgeshth/info_Durgesh/assets/88326857/8fdc9d99-700b-4ae4-88b7-27f31af05fff
+
+
 Other:
 I have many minor and major projects, but most of them were not documented, as it was just my curiosity to know how it works and, initially, I was not a fan of getting them documented.
  - extras
