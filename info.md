@@ -58,14 +58,7 @@ In my FYBSc, we had a topic named LASER, and we learned about absorption, stimul
 https://github.com/durgeshth/info_Durgesh/assets/88326857/bc86334c-6767-400f-8d95-4e83a394c3dd
 
 
-## Turbulent and laminar flow
 
-Wanted to know how laminar flow works and what is the terminal point after which it starts to get turbulent in nature.
-
-<img src="https://github.com/durgeshth/info_Durgesh/assets/88326857/3d75c325-e681-4e7c-8a52-379a6357b307" width="500" height="500">
-
-
-https://github.com/durgeshth/info_Durgesh/assets/88326857/8fdc9d99-700b-4ae4-88b7-27f31af05fff
 
 
 
@@ -77,7 +70,14 @@ https://github.com/user-attachments/assets/4d80df5c-5472-42dc-a09d-b8135105cce0
 
 
 
+## Turbulent and laminar flow
 
+Wanted to know how laminar flow works and what is the terminal point after which it starts to get turbulent in nature.
+
+<img src="https://github.com/durgeshth/info_Durgesh/assets/88326857/3d75c325-e681-4e7c-8a52-379a6357b307" width="500" height="500">
+
+
+https://github.com/durgeshth/info_Durgesh/assets/88326857/8fdc9d99-700b-4ae4-88b7-27f31af05fff
 
 
 Other:
